@@ -59,4 +59,4 @@
 
 ## Explore My Code
 
-🔗 **GitHub Repository:** Dive into the codebase, witness the journey of crafting a robust predictive model, and understand the innovative techniques employed. Discover how diverse machine learning algorithms tackle the challenge of predicting customer behavior and optimizing cross-sell strategies in the insurance sector.
+🔗 **GitHub Repository:** Dive into the codebase (notebook file .ipynb). Discover how diverse machine learning algorithms tackle the challenge of predicting customer behavior and optimizing cross-sell strategies in the insurance sector.
